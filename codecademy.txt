@@ -1,0 +1,55 @@
+CODECADEMY 1.1 - Intro to video for codecademy
+CODECADEMY 1.2 - Signing up
+CODECADEMY 1.3 - How it is structured
+CODECADEMY 1.4 - How we complete the instructions
+CODECADEMY 1.5 - How to review progress & external readings
+CODECADEMY 1.6 - Outro to video for codecademy
+
+
+CODECADEMY 1.1 - Intro to video for codecademy
+Chris from Codify Academy here.
+In this video I'm gonna show you how to use Codecademy, because their interactive lessons and external readings are required in the prework.
+Quick note: You don't have to subscribe to the a pro account.
+
+
+CODECADEMY 1.2 - Signing up and choosing the right course
+On the codecademy home page, we need to sign up, go ahead and add your email, a password and a user name and then click sign up.
+next tell them you're into web development and you're doing this for you're career.
+we cab start learning for free by clicking the, learn HTML and CSS Part 1 line. and then clicking on start.
+
+
+CODECADEMY 1.3 - How it is structured
+Ok so we're in now, and each section will look similar to this, On the left side We have an area learning, an area for instructions (these are tasks you need to complete)
+an area the forum and an area to submit bugs. The 1st and 2nd are gonna the most important here.
+
+In the middle of the screen we have a simulated text editor for a place to write code, and on the right a simulated browser to that the results of the code.
+
+
+
+CODECADEMY 1.4 - How we complete the instructions
+After you read all the content in learn, check out instructions, you will see tasks to complete, this one says to change the content of the h1 element, so we do that in the middle and click run below to check the answer.
+you'll see the browser update with the new content, and the instructions is checked off because it is complete.
+Now we could move forward, but first click on the bottom left here, and you can see the sections, for this part of the course.
+
+ok, lets close that and click on next. again read through the learn section and complete the instructions.
+If you need or want to, you can reset a section by clicking the refresh icon here and then choosing reset.
+
+if you happen to get the answer wrong enough times, this pop up box will appear and it lets you keep trying or get the code (this would be the answer).
+if you click get code it will display the correct code in the middle section and complete the instructions on the left, you can then move on to the next section.
+
+Im going to speed this video up real quick to get to the last section, once there we can see this one has multiple instructions, so you need to complete them all to move forward, and if you know more then one answer you can add it in and it will check them off if they are correct.
+
+
+
+CODECADEMY 1.5 - How to review progress & External readings
+Alright, so once you finish the last part of a lesson you get this sweet badge, we can skip this questionnaire, and the quiz. and then it takes you to the next lesson.
+
+Before moving on, lets check out the overview of the course, click on the site logo, and here we see the percentage complete for the course and we could resume.
+
+on the left you ca click to reveal all the sections for Learn HTML and CSS Part 1,
+go in and click on the first section, it shows we completed the 1st interactive lesson but below there is an external reading which they didn't tell us about, be sure to check here for external readings that go along with the interactive lessons.
+
+
+
+CODECADEMY 1.6 - Outro to video for codecademy
+That's it for now, be sure to complete Learn HTML and CSS Part 1 its required prework.
